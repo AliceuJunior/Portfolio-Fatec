@@ -157,6 +157,7 @@ nav ul li a:hover {
   box-shadow: 0 0 20px rgba(138, 43, 226, 0.2);
   transition: transform 0.3s ease;
   border: 1px solid #8a2be2;
+  text-decoration: none;
 }
 
 .project-card:hover {
@@ -284,6 +285,10 @@ nav ul li a:hover {
 .ancora{
   text-decoration: none;
   flex-wrap: wrap;
+  color: white;
+}
+.ancora-projeto{
+  text-decoration: none;
 }
 
 .skill-card:hover {
